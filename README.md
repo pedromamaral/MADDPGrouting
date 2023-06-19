@@ -14,6 +14,8 @@ Before running this project, make sure you have the following software installed
 - PyTorch
 - NumPy
 - Matplotlib
+- OpenAI Gym
+- networkx
 
 ### Executing the program
 The program can be executed by running the file MADDPG. Right now it is using the network topology provided on the file small_network.pickle.
